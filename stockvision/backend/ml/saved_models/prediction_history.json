@@ -1,0 +1,1868 @@
+{
+  "00000000-0000-0000-0000-000000000001": [
+    {
+      "id": "78674ff2-9023-459d-963e-e79ef83f5f74",
+      "user_id": "00000000-0000-0000-0000-000000000001",
+      "symbol": "RELIANCE.NS",
+      "model": "LSTM",
+      "horizon": 5,
+      "latest_price": 1257.3,
+      "predicted_prices": [
+        {
+          "step": 1,
+          "date": "2026-11-03",
+          "predicted_close": 1209.59,
+          "lower_bound": 1177.5,
+          "upper_bound": 1241.68
+        },
+        {
+          "step": 2,
+          "date": "2026-11-04",
+          "predicted_close": 1214.13,
+          "lower_bound": 1168.58,
+          "upper_bound": 1259.68
+        },
+        {
+          "step": 3,
+          "date": "2026-11-05",
+          "predicted_close": 1217.59,
+          "lower_bound": 1161.64,
+          "upper_bound": 1273.54
+        },
+        {
+          "step": 4,
+          "date": "2026-11-06",
+          "predicted_close": 1220.39,
+          "lower_bound": 1155.64,
+          "upper_bound": 1285.14
+        },
+        {
+          "step": 5,
+          "date": "2026-11-09",
+          "predicted_close": 1222.71,
+          "lower_bound": 1150.18,
+          "upper_bound": 1295.24
+        }
+      ],
+      "created_at": "2026-11-02T08:45:35.287329"
+    },
+    {
+      "id": "827dbcb7-6b8a-4e4b-ba52-3524ba1aca3c",
+      "user_id": "00000000-0000-0000-0000-000000000001",
+      "symbol": "RELIANCE.NS",
+      "model": "LSTM",
+      "horizon": 5,
+      "latest_price": 1257.3,
+      "predicted_prices": [
+        {
+          "step": 1,
+          "date": "2026-11-03",
+          "predicted_close": 1209.59,
+          "lower_bound": 1177.5,
+          "upper_bound": 1241.68
+        },
+        {
+          "step": 2,
+          "date": "2026-11-04",
+          "predicted_close": 1214.13,
+          "lower_bound": 1168.58,
+          "upper_bound": 1259.68
+        },
+        {
+          "step": 3,
+          "date": "2026-11-05",
+          "predicted_close": 1217.59,
+          "lower_bound": 1161.64,
+          "upper_bound": 1273.54
+        },
+        {
+          "step": 4,
+          "date": "2026-11-06",
+          "predicted_close": 1220.39,
+          "lower_bound": 1155.64,
+          "upper_bound": 1285.14
+        },
+        {
+          "step": 5,
+          "date": "2026-11-09",
+          "predicted_close": 1222.71,
+          "lower_bound": 1150.18,
+          "upper_bound": 1295.24
+        }
+      ],
+      "created_at": "2026-11-02T08:45:35.287207"
+    },
+    {
+      "id": "92e88e4f-f106-4aa4-8863-1c8114598561",
+      "user_id": "00000000-0000-0000-0000-000000000001",
+      "symbol": "INFY.NS",
+      "model": "CNN",
+      "horizon": 10,
+      "latest_price": 1153.2,
+      "predicted_prices": [
+        {
+          "step": 1,
+          "date": "2026-11-03",
+          "predicted_close": 1382.51,
+          "lower_bound": 1337.14,
+          "upper_bound": 1427.88
+        },
+        {
+          "step": 2,
+          "date": "2026-11-04",
+          "predicted_close": 1402.04,
+          "lower_bound": 1336.97,
+          "upper_bound": 1467.11
+        },
+        {
+          "step": 3,
+          "date": "2026-11-05",
+          "predicted_close": 1429.39,
+          "lower_bound": 1348.14,
+          "upper_bound": 1510.63
+        },
+        {
+          "step": 4,
+          "date": "2026-11-06",
+          "predicted_close": 1454.77,
+          "lower_bound": 1359.29,
+          "upper_bound": 1550.25
+        },
+        {
+          "step": 5,
+          "date": "2026-11-09",
+          "predicted_close": 1470.32,
+          "lower_bound": 1362.44,
+          "upper_bound": 1578.21
+        },
+        {
+          "step": 6,
+          "date": "2026-11-10",
+          "predicted_close": 1498.43,
+          "lower_bound": 1377.99,
+          "upper_bound": 1618.88
+        },
+        {
+          "step": 7,
+          "date": "2026-11-11",
+          "predicted_close": 1520.78,
+          "lower_bound": 1388.74,
+          "upper_bound": 1652.82
+        },
+        {
+          "step": 8,
+          "date": "2026-11-12",
+          "predicted_close": 1535.71,
+          "lower_bound": 1393.17,
+          "upper_bound": 1678.24
+        },
+        {
+          "step": 9,
+          "date": "2026-11-13",
+          "predicted_close": 1570.22,
+          "lower_bound": 1415.64,
+          "upper_bound": 1724.8
+        },
+        {
+          "step": 10,
+          "date": "2026-11-16",
+          "predicted_close": 1582.27,
+          "lower_bound": 1418.08,
+          "upper_bound": 1746.47
+        }
+      ],
+      "created_at": "2026-11-02T08:31:34.864819"
+    },
+    {
+      "id": "e89f6ab6-1b76-4b36-9791-ce0794816233",
+      "user_id": "00000000-0000-0000-0000-000000000001",
+      "symbol": "TCS.NS",
+      "model": "GRU",
+      "horizon": 7,
+      "latest_price": 2505.9,
+      "predicted_prices": [
+        {
+          "step": 1,
+          "date": "2026-11-03",
+          "predicted_close": 2505.27,
+          "lower_bound": 2425.37,
+          "upper_bound": 2585.17
+        },
+        {
+          "step": 2,
+          "date": "2026-11-04",
+          "predicted_close": 2518.78,
+          "lower_bound": 2405.17,
+          "upper_bound": 2632.39
+        },
+        {
+          "step": 3,
+          "date": "2026-11-05",
+          "predicted_close": 2527.22,
+          "lower_bound": 2387.62,
+          "upper_bound": 2666.83
+        },
+        {
+          "step": 4,
+          "date": "2026-11-06",
+          "predicted_close": 2533.49,
+          "lower_bound": 2371.89,
+          "upper_bound": 2695.09
+        },
+        {
+          "step": 5,
+          "date": "2026-11-09",
+          "predicted_close": 2539.46,
+          "lower_bound": 2358.36,
+          "upper_bound": 2720.57
+        },
+        {
+          "step": 6,
+          "date": "2026-11-10",
+          "predicted_close": 2545.57,
+          "lower_bound": 2346.7,
+          "upper_bound": 2744.43
+        },
+        {
+          "step": 7,
+          "date": "2026-11-11",
+          "predicted_close": 2551.98,
+          "lower_bound": 2336.64,
+          "upper_bound": 2767.32
+        }
+      ],
+      "created_at": "2026-11-02T08:30:18.700956"
+    }
+  ],
+  "cb0913a7-bec5-4f02-bce1-a02901a34ef0": [
+    {
+      "id": "467eed82-8b58-430a-bfcf-c0f953555528",
+      "user_id": "cb0913a7-bec5-4f02-bce1-a02901a34ef0",
+      "symbol": "RELIANCE.NS",
+      "model": "LSTM",
+      "horizon": 5,
+      "latest_price": 1261.4,
+      "predicted_prices": [
+        {
+          "step": 1,
+          "date": "2026-11-03",
+          "predicted_close": 1209.98,
+          "lower_bound": 1177.35,
+          "upper_bound": 1242.61
+        },
+        {
+          "step": 2,
+          "date": "2026-11-04",
+          "predicted_close": 1214.82,
+          "lower_bound": 1168.49,
+          "upper_bound": 1261.16
+        },
+        {
+          "step": 3,
+          "date": "2026-11-05",
+          "predicted_close": 1218.42,
+          "lower_bound": 1161.5,
+          "upper_bound": 1275.33
+        },
+        {
+          "step": 4,
+          "date": "2026-11-06",
+          "predicted_close": 1221.24,
+          "lower_bound": 1155.37,
+          "upper_bound": 1287.11
+        },
+        {
+          "step": 5,
+          "date": "2026-11-09",
+          "predicted_close": 1223.53,
+          "lower_bound": 1149.75,
+          "upper_bound": 1297.32
+        }
+      ],
+      "created_at": "2026-11-02T09:18:06.351436"
+    },
+    {
+      "id": "c605f8fb-27ff-4362-8191-e56940b1b38e",
+      "user_id": "cb0913a7-bec5-4f02-bce1-a02901a34ef0",
+      "symbol": "RELIANCE.NS",
+      "model": "LSTM",
+      "horizon": 5,
+      "latest_price": 1261.5,
+      "predicted_prices": [
+        {
+          "step": 1,
+          "date": "2026-11-03",
+          "predicted_close": 1209.98,
+          "lower_bound": 1177.34,
+          "upper_bound": 1242.63
+        },
+        {
+          "step": 2,
+          "date": "2026-11-04",
+          "predicted_close": 1214.83,
+          "lower_bound": 1168.48,
+          "upper_bound": 1261.18
+        },
+        {
+          "step": 3,
+          "date": "2026-11-05",
+          "predicted_close": 1218.43,
+          "lower_bound": 1161.49,
+          "upper_bound": 1275.36
+        },
+        {
+          "step": 4,
+          "date": "2026-11-06",
+          "predicted_close": 1221.25,
+          "lower_bound": 1155.36,
+          "upper_bound": 1287.15
+        },
+        {
+          "step": 5,
+          "date": "2026-11-09",
+          "predicted_close": 1223.54,
+          "lower_bound": 1149.73,
+          "upper_bound": 1297.36
+        }
+      ],
+      "created_at": "2026-11-02T09:18:06.351395"
+    },
+    {
+      "id": "f5ab70f6-fde9-4e40-a2f2-79089830054c",
+      "user_id": "cb0913a7-bec5-4f02-bce1-a02901a34ef0",
+      "symbol": "RELIANCE.NS",
+      "model": "LSTM",
+      "horizon": 5,
+      "latest_price": 1263.7,
+      "predicted_prices": [
+        {
+          "step": 1,
+          "date": "2026-11-03",
+          "predicted_close": 1209.96,
+          "lower_bound": 1177.03,
+          "upper_bound": 1242.89
+        },
+        {
+          "step": 2,
+          "date": "2026-11-04",
+          "predicted_close": 1214.89,
+          "lower_bound": 1168.13,
+          "upper_bound": 1261.66
+        },
+        {
+          "step": 3,
+          "date": "2026-11-05",
+          "predicted_close": 1218.54,
+          "lower_bound": 1161.09,
+          "upper_bound": 1275.99
+        },
+        {
+          "step": 4,
+          "date": "2026-11-06",
+          "predicted_close": 1221.4,
+          "lower_bound": 1154.91,
+          "upper_bound": 1287.89
+        },
+        {
+          "step": 5,
+          "date": "2026-11-09",
+          "predicted_close": 1223.71,
+          "lower_bound": 1149.23,
+          "upper_bound": 1298.19
+        }
+      ],
+      "created_at": "2026-11-02T09:06:08.171059"
+    },
+    {
+      "id": "4add1d7b-7d51-42b9-8745-debc9be5d70e",
+      "user_id": "cb0913a7-bec5-4f02-bce1-a02901a34ef0",
+      "symbol": "RELIANCE.NS",
+      "model": "LSTM",
+      "horizon": 5,
+      "latest_price": 1263.9,
+      "predicted_prices": [
+        {
+          "step": 1,
+          "date": "2026-11-03",
+          "predicted_close": 1209.96,
+          "lower_bound": 1177.0,
+          "upper_bound": 1242.93
+        },
+        {
+          "step": 2,
+          "date": "2026-11-04",
+          "predicted_close": 1214.9,
+          "lower_bound": 1168.1,
+          "upper_bound": 1261.71
+        },
+        {
+          "step": 3,
+          "date": "2026-11-05",
+          "predicted_close": 1218.56,
+          "lower_bound": 1161.07,
+          "upper_bound": 1276.06
+        },
+        {
+          "step": 4,
+          "date": "2026-11-06",
+          "predicted_close": 1221.42,
+          "lower_bound": 1154.88,
+          "upper_bound": 1287.97
+        },
+        {
+          "step": 5,
+          "date": "2026-11-09",
+          "predicted_close": 1223.73,
+          "lower_bound": 1149.19,
+          "upper_bound": 1298.27
+        }
+      ],
+      "created_at": "2026-11-02T09:06:07.957251"
+    },
+    {
+      "id": "1515378b-edd6-4f0c-97e6-39746bc046c9",
+      "user_id": "cb0913a7-bec5-4f02-bce1-a02901a34ef0",
+      "symbol": "RELIANCE.NS",
+      "model": "LSTM",
+      "horizon": 5,
+      "latest_price": 1263.8,
+      "predicted_prices": [
+        {
+          "step": 1,
+          "date": "2026-11-03",
+          "predicted_close": 1209.96,
+          "lower_bound": 1177.01,
+          "upper_bound": 1242.91
+        },
+        {
+          "step": 2,
+          "date": "2026-11-04",
+          "predicted_close": 1214.9,
+          "lower_bound": 1168.11,
+          "upper_bound": 1261.68
+        },
+        {
+          "step": 3,
+          "date": "2026-11-05",
+          "predicted_close": 1218.55,
+          "lower_bound": 1161.08,
+          "upper_bound": 1276.02
+        },
+        {
+          "step": 4,
+          "date": "2026-11-06",
+          "predicted_close": 1221.41,
+          "lower_bound": 1154.89,
+          "upper_bound": 1287.93
+        },
+        {
+          "step": 5,
+          "date": "2026-11-09",
+          "predicted_close": 1223.72,
+          "lower_bound": 1149.21,
+          "upper_bound": 1298.23
+        }
+      ],
+      "created_at": "2026-11-02T09:05:52.571814"
+    },
+    {
+      "id": "b20076c3-f7cc-4de3-81c8-457846175da7",
+      "user_id": "cb0913a7-bec5-4f02-bce1-a02901a34ef0",
+      "symbol": "RELIANCE.NS",
+      "model": "LSTM",
+      "horizon": 5,
+      "latest_price": 1263.8,
+      "predicted_prices": [
+        {
+          "step": 1,
+          "date": "2026-11-03",
+          "predicted_close": 1209.96,
+          "lower_bound": 1177.01,
+          "upper_bound": 1242.91
+        },
+        {
+          "step": 2,
+          "date": "2026-11-04",
+          "predicted_close": 1214.9,
+          "lower_bound": 1168.11,
+          "upper_bound": 1261.68
+        },
+        {
+          "step": 3,
+          "date": "2026-11-05",
+          "predicted_close": 1218.55,
+          "lower_bound": 1161.08,
+          "upper_bound": 1276.02
+        },
+        {
+          "step": 4,
+          "date": "2026-11-06",
+          "predicted_close": 1221.41,
+          "lower_bound": 1154.89,
+          "upper_bound": 1287.93
+        },
+        {
+          "step": 5,
+          "date": "2026-11-09",
+          "predicted_close": 1223.72,
+          "lower_bound": 1149.21,
+          "upper_bound": 1298.23
+        }
+      ],
+      "created_at": "2026-11-02T09:05:52.410821"
+    },
+    {
+      "id": "b201da7e-57c5-49f1-a575-1a99721686da",
+      "user_id": "cb0913a7-bec5-4f02-bce1-a02901a34ef0",
+      "symbol": "RELIANCE.NS",
+      "model": "LSTM",
+      "horizon": 5,
+      "latest_price": 1260.0,
+      "predicted_prices": [
+        {
+          "step": 1,
+          "date": "2026-11-03",
+          "predicted_close": 1209.69,
+          "lower_bound": 1177.25,
+          "upper_bound": 1242.13
+        },
+        {
+          "step": 2,
+          "date": "2026-11-04",
+          "predicted_close": 1214.36,
+          "lower_bound": 1168.31,
+          "upper_bound": 1260.42
+        },
+        {
+          "step": 3,
+          "date": "2026-11-05",
+          "predicted_close": 1217.9,
+          "lower_bound": 1161.33,
+          "upper_bound": 1274.47
+        },
+        {
+          "step": 4,
+          "date": "2026-11-06",
+          "predicted_close": 1220.72,
+          "lower_bound": 1155.25,
+          "upper_bound": 1286.2
+        },
+        {
+          "step": 5,
+          "date": "2026-11-09",
+          "predicted_close": 1223.05,
+          "lower_bound": 1149.71,
+          "upper_bound": 1296.39
+        }
+      ],
+      "created_at": "2026-11-02T08:48:48.218138"
+    },
+    {
+      "id": "e2a81c7f-a467-47cf-bb56-82764a9b2ecb",
+      "user_id": "cb0913a7-bec5-4f02-bce1-a02901a34ef0",
+      "symbol": "RELIANCE.NS",
+      "model": "LSTM",
+      "horizon": 5,
+      "latest_price": 1259.6,
+      "predicted_prices": [
+        {
+          "step": 1,
+          "date": "2026-11-03",
+          "predicted_close": 1209.68,
+          "lower_bound": 1177.29,
+          "upper_bound": 1242.07
+        },
+        {
+          "step": 2,
+          "date": "2026-11-04",
+          "predicted_close": 1214.33,
+          "lower_bound": 1168.35,
+          "upper_bound": 1260.31
+        },
+        {
+          "step": 3,
+          "date": "2026-11-05",
+          "predicted_close": 1217.86,
+          "lower_bound": 1161.38,
+          "upper_bound": 1274.34
+        },
+        {
+          "step": 4,
+          "date": "2026-11-06",
+          "predicted_close": 1220.68,
+          "lower_bound": 1155.32,
+          "upper_bound": 1286.05
+        },
+        {
+          "step": 5,
+          "date": "2026-11-09",
+          "predicted_close": 1223.01,
+          "lower_bound": 1149.79,
+          "upper_bound": 1296.23
+        }
+      ],
+      "created_at": "2026-11-02T08:48:48.007138"
+    },
+    {
+      "id": "ff4956b8-3667-4bc8-8020-5534028bc2d2",
+      "user_id": "cb0913a7-bec5-4f02-bce1-a02901a34ef0",
+      "symbol": "RELIANCE.NS",
+      "model": "LSTM",
+      "horizon": 5,
+      "latest_price": 1257.0,
+      "predicted_prices": [
+        {
+          "step": 1,
+          "date": "2026-11-03",
+          "predicted_close": 1209.57,
+          "lower_bound": 1177.52,
+          "upper_bound": 1241.62
+        },
+        {
+          "step": 2,
+          "date": "2026-11-04",
+          "predicted_close": 1214.08,
+          "lower_bound": 1168.59,
+          "upper_bound": 1259.58
+        },
+        {
+          "step": 3,
+          "date": "2026-11-05",
+          "predicted_close": 1217.54,
+          "lower_bound": 1161.67,
+          "upper_bound": 1273.42
+        },
+        {
+          "step": 4,
+          "date": "2026-11-06",
+          "predicted_close": 1220.34,
+          "lower_bound": 1155.67,
+          "upper_bound": 1285.01
+        },
+        {
+          "step": 5,
+          "date": "2026-11-09",
+          "predicted_close": 1222.67,
+          "lower_bound": 1150.23,
+          "upper_bound": 1295.11
+        }
+      ],
+      "created_at": "2026-11-02T08:40:51.248193"
+    },
+    {
+      "id": "221fd555-bcb2-439e-a7af-8605983375c9",
+      "user_id": "cb0913a7-bec5-4f02-bce1-a02901a34ef0",
+      "symbol": "RELIANCE.NS",
+      "model": "LSTM",
+      "horizon": 5,
+      "latest_price": 1257.0,
+      "predicted_prices": [
+        {
+          "step": 1,
+          "date": "2026-11-03",
+          "predicted_close": 1209.57,
+          "lower_bound": 1177.52,
+          "upper_bound": 1241.62
+        },
+        {
+          "step": 2,
+          "date": "2026-11-04",
+          "predicted_close": 1214.08,
+          "lower_bound": 1168.59,
+          "upper_bound": 1259.58
+        },
+        {
+          "step": 3,
+          "date": "2026-11-05",
+          "predicted_close": 1217.54,
+          "lower_bound": 1161.67,
+          "upper_bound": 1273.42
+        },
+        {
+          "step": 4,
+          "date": "2026-11-06",
+          "predicted_close": 1220.34,
+          "lower_bound": 1155.67,
+          "upper_bound": 1285.01
+        },
+        {
+          "step": 5,
+          "date": "2026-11-09",
+          "predicted_close": 1222.67,
+          "lower_bound": 1150.23,
+          "upper_bound": 1295.11
+        }
+      ],
+      "created_at": "2026-11-02T08:40:51.247318"
+    },
+    {
+      "id": "411d622b-480a-4c04-98bd-0edd24d0f370",
+      "user_id": "cb0913a7-bec5-4f02-bce1-a02901a34ef0",
+      "symbol": "RELIANCE.NS",
+      "model": "LSTM",
+      "horizon": 5,
+      "latest_price": 1257.0,
+      "predicted_prices": [
+        {
+          "step": 1,
+          "date": "2026-11-03",
+          "predicted_close": 1209.57,
+          "lower_bound": 1177.52,
+          "upper_bound": 1241.62
+        },
+        {
+          "step": 2,
+          "date": "2026-11-04",
+          "predicted_close": 1214.08,
+          "lower_bound": 1168.59,
+          "upper_bound": 1259.58
+        },
+        {
+          "step": 3,
+          "date": "2026-11-05",
+          "predicted_close": 1217.54,
+          "lower_bound": 1161.67,
+          "upper_bound": 1273.42
+        },
+        {
+          "step": 4,
+          "date": "2026-11-06",
+          "predicted_close": 1220.34,
+          "lower_bound": 1155.67,
+          "upper_bound": 1285.01
+        },
+        {
+          "step": 5,
+          "date": "2026-11-09",
+          "predicted_close": 1222.67,
+          "lower_bound": 1150.23,
+          "upper_bound": 1295.11
+        }
+      ],
+      "created_at": "2026-11-02T08:40:49.035045"
+    },
+    {
+      "id": "8c665cee-9bdc-4644-bcb6-3c2e3b7b083b",
+      "user_id": "cb0913a7-bec5-4f02-bce1-a02901a34ef0",
+      "symbol": "RELIANCE.NS",
+      "model": "LSTM",
+      "horizon": 5,
+      "latest_price": 1257.0,
+      "predicted_prices": [
+        {
+          "step": 1,
+          "date": "2026-11-03",
+          "predicted_close": 1209.57,
+          "lower_bound": 1177.52,
+          "upper_bound": 1241.62
+        },
+        {
+          "step": 2,
+          "date": "2026-11-04",
+          "predicted_close": 1214.08,
+          "lower_bound": 1168.59,
+          "upper_bound": 1259.58
+        },
+        {
+          "step": 3,
+          "date": "2026-11-05",
+          "predicted_close": 1217.54,
+          "lower_bound": 1161.67,
+          "upper_bound": 1273.42
+        },
+        {
+          "step": 4,
+          "date": "2026-11-06",
+          "predicted_close": 1220.34,
+          "lower_bound": 1155.67,
+          "upper_bound": 1285.01
+        },
+        {
+          "step": 5,
+          "date": "2026-11-09",
+          "predicted_close": 1222.67,
+          "lower_bound": 1150.23,
+          "upper_bound": 1295.11
+        }
+      ],
+      "created_at": "2026-11-02T08:40:49.034081"
+    },
+    {
+      "id": "99f99a98-256a-435c-bd23-282659aaf52a",
+      "user_id": "cb0913a7-bec5-4f02-bce1-a02901a34ef0",
+      "symbol": "RELIANCE.NS",
+      "model": "LSTM",
+      "horizon": 5,
+      "latest_price": 1257.0,
+      "predicted_prices": [
+        {
+          "step": 1,
+          "date": "2026-11-03",
+          "predicted_close": 1209.57,
+          "lower_bound": 1177.52,
+          "upper_bound": 1241.62
+        },
+        {
+          "step": 2,
+          "date": "2026-11-04",
+          "predicted_close": 1214.08,
+          "lower_bound": 1168.59,
+          "upper_bound": 1259.58
+        },
+        {
+          "step": 3,
+          "date": "2026-11-05",
+          "predicted_close": 1217.54,
+          "lower_bound": 1161.67,
+          "upper_bound": 1273.42
+        },
+        {
+          "step": 4,
+          "date": "2026-11-06",
+          "predicted_close": 1220.34,
+          "lower_bound": 1155.67,
+          "upper_bound": 1285.01
+        },
+        {
+          "step": 5,
+          "date": "2026-11-09",
+          "predicted_close": 1222.67,
+          "lower_bound": 1150.23,
+          "upper_bound": 1295.11
+        }
+      ],
+      "created_at": "2026-11-02T08:40:43.887513"
+    },
+    {
+      "id": "9fb0826e-9e0f-48af-bf41-e570288f6615",
+      "user_id": "cb0913a7-bec5-4f02-bce1-a02901a34ef0",
+      "symbol": "RELIANCE.NS",
+      "model": "LSTM",
+      "horizon": 5,
+      "latest_price": 1257.0,
+      "predicted_prices": [
+        {
+          "step": 1,
+          "date": "2026-11-03",
+          "predicted_close": 1209.57,
+          "lower_bound": 1177.52,
+          "upper_bound": 1241.62
+        },
+        {
+          "step": 2,
+          "date": "2026-11-04",
+          "predicted_close": 1214.08,
+          "lower_bound": 1168.59,
+          "upper_bound": 1259.58
+        },
+        {
+          "step": 3,
+          "date": "2026-11-05",
+          "predicted_close": 1217.54,
+          "lower_bound": 1161.67,
+          "upper_bound": 1273.42
+        },
+        {
+          "step": 4,
+          "date": "2026-11-06",
+          "predicted_close": 1220.34,
+          "lower_bound": 1155.67,
+          "upper_bound": 1285.01
+        },
+        {
+          "step": 5,
+          "date": "2026-11-09",
+          "predicted_close": 1222.67,
+          "lower_bound": 1150.23,
+          "upper_bound": 1295.11
+        }
+      ],
+      "created_at": "2026-11-02T08:40:43.517238"
+    },
+    {
+      "id": "72ff67f6-10d8-4177-a6f3-a3246010b20c",
+      "user_id": "cb0913a7-bec5-4f02-bce1-a02901a34ef0",
+      "symbol": "HDFCBANK.NS",
+      "model": "LSTM",
+      "horizon": 5,
+      "latest_price": 690.3,
+      "predicted_prices": [
+        {
+          "step": 1,
+          "date": "2026-11-03",
+          "predicted_close": 696.31,
+          "lower_bound": 682.39,
+          "upper_bound": 710.24
+        },
+        {
+          "step": 2,
+          "date": "2026-11-04",
+          "predicted_close": 695.41,
+          "lower_bound": 675.74,
+          "upper_bound": 715.08
+        },
+        {
+          "step": 3,
+          "date": "2026-11-05",
+          "predicted_close": 695.27,
+          "lower_bound": 671.18,
+          "upper_bound": 719.35
+        },
+        {
+          "step": 4,
+          "date": "2026-11-06",
+          "predicted_close": 695.57,
+          "lower_bound": 667.75,
+          "upper_bound": 723.4
+        },
+        {
+          "step": 5,
+          "date": "2026-11-09",
+          "predicted_close": 696.14,
+          "lower_bound": 665.01,
+          "upper_bound": 727.28
+        }
+      ],
+      "created_at": "2026-11-02T08:35:17.809639"
+    },
+    {
+      "id": "761b7759-fefd-453e-9430-434da0666290",
+      "user_id": "cb0913a7-bec5-4f02-bce1-a02901a34ef0",
+      "symbol": "HDFCBANK.NS",
+      "model": "LSTM",
+      "horizon": 5,
+      "latest_price": 690.3,
+      "predicted_prices": [
+        {
+          "step": 1,
+          "date": "2026-11-03",
+          "predicted_close": 696.31,
+          "lower_bound": 682.39,
+          "upper_bound": 710.24
+        },
+        {
+          "step": 2,
+          "date": "2026-11-04",
+          "predicted_close": 695.41,
+          "lower_bound": 675.74,
+          "upper_bound": 715.08
+        },
+        {
+          "step": 3,
+          "date": "2026-11-05",
+          "predicted_close": 695.27,
+          "lower_bound": 671.18,
+          "upper_bound": 719.35
+        },
+        {
+          "step": 4,
+          "date": "2026-11-06",
+          "predicted_close": 695.57,
+          "lower_bound": 667.75,
+          "upper_bound": 723.4
+        },
+        {
+          "step": 5,
+          "date": "2026-11-09",
+          "predicted_close": 696.14,
+          "lower_bound": 665.01,
+          "upper_bound": 727.28
+        }
+      ],
+      "created_at": "2026-11-02T08:35:17.380034"
+    },
+    {
+      "id": "60264fdf-05a2-44d8-a7ff-dfd1e45d1ac4",
+      "user_id": "cb0913a7-bec5-4f02-bce1-a02901a34ef0",
+      "symbol": "HDFCBANK.NS",
+      "model": "LSTM",
+      "horizon": 5,
+      "latest_price": 690.35,
+      "predicted_prices": [
+        {
+          "step": 1,
+          "date": "2026-11-03",
+          "predicted_close": 696.31,
+          "lower_bound": 682.39,
+          "upper_bound": 710.24
+        },
+        {
+          "step": 2,
+          "date": "2026-11-04",
+          "predicted_close": 695.41,
+          "lower_bound": 675.74,
+          "upper_bound": 715.08
+        },
+        {
+          "step": 3,
+          "date": "2026-11-05",
+          "predicted_close": 695.27,
+          "lower_bound": 671.19,
+          "upper_bound": 719.35
+        },
+        {
+          "step": 4,
+          "date": "2026-11-06",
+          "predicted_close": 695.58,
+          "lower_bound": 667.75,
+          "upper_bound": 723.4
+        },
+        {
+          "step": 5,
+          "date": "2026-11-09",
+          "predicted_close": 696.15,
+          "lower_bound": 665.02,
+          "upper_bound": 727.28
+        }
+      ],
+      "created_at": "2026-11-02T08:35:11.189724"
+    },
+    {
+      "id": "475a1aad-3f8e-4b6c-8571-50feaf3ad402",
+      "user_id": "cb0913a7-bec5-4f02-bce1-a02901a34ef0",
+      "symbol": "HDFCBANK.NS",
+      "model": "LSTM",
+      "horizon": 5,
+      "latest_price": 690.4,
+      "predicted_prices": [
+        {
+          "step": 1,
+          "date": "2026-11-03",
+          "predicted_close": 696.31,
+          "lower_bound": 682.39,
+          "upper_bound": 710.24
+        },
+        {
+          "step": 2,
+          "date": "2026-11-04",
+          "predicted_close": 695.41,
+          "lower_bound": 675.75,
+          "upper_bound": 715.08
+        },
+        {
+          "step": 3,
+          "date": "2026-11-05",
+          "predicted_close": 695.27,
+          "lower_bound": 671.19,
+          "upper_bound": 719.36
+        },
+        {
+          "step": 4,
+          "date": "2026-11-06",
+          "predicted_close": 695.58,
+          "lower_bound": 667.76,
+          "upper_bound": 723.4
+        },
+        {
+          "step": 5,
+          "date": "2026-11-09",
+          "predicted_close": 696.15,
+          "lower_bound": 665.02,
+          "upper_bound": 727.28
+        }
+      ],
+      "created_at": "2026-11-02T08:35:10.721402"
+    },
+    {
+      "id": "4b9e35e3-d578-422c-9b65-993262267f41",
+      "user_id": "cb0913a7-bec5-4f02-bce1-a02901a34ef0",
+      "symbol": "HDFCBANK.NS",
+      "model": "CNN",
+      "horizon": 30,
+      "latest_price": 689.85,
+      "predicted_prices": [
+        {
+          "step": 1,
+          "date": "2026-11-03",
+          "predicted_close": 695.27,
+          "lower_bound": 681.36,
+          "upper_bound": 709.18
+        },
+        {
+          "step": 2,
+          "date": "2026-11-04",
+          "predicted_close": 692.73,
+          "lower_bound": 673.13,
+          "upper_bound": 712.33
+        },
+        {
+          "step": 3,
+          "date": "2026-11-05",
+          "predicted_close": 691.8,
+          "lower_bound": 667.83,
+          "upper_bound": 715.77
+        },
+        {
+          "step": 4,
+          "date": "2026-11-06",
+          "predicted_close": 692.38,
+          "lower_bound": 664.68,
+          "upper_bound": 720.08
+        },
+        {
+          "step": 5,
+          "date": "2026-11-09",
+          "predicted_close": 692.32,
+          "lower_bound": 661.35,
+          "upper_bound": 723.28
+        },
+        {
+          "step": 6,
+          "date": "2026-11-10",
+          "predicted_close": 691.47,
+          "lower_bound": 657.58,
+          "upper_bound": 725.35
+        },
+        {
+          "step": 7,
+          "date": "2026-11-11",
+          "predicted_close": 692.07,
+          "lower_bound": 655.44,
+          "upper_bound": 728.69
+        },
+        {
+          "step": 8,
+          "date": "2026-11-12",
+          "predicted_close": 693.55,
+          "lower_bound": 654.31,
+          "upper_bound": 732.79
+        },
+        {
+          "step": 9,
+          "date": "2026-11-13",
+          "predicted_close": 693.5,
+          "lower_bound": 651.88,
+          "upper_bound": 735.12
+        },
+        {
+          "step": 10,
+          "date": "2026-11-16",
+          "predicted_close": 692.95,
+          "lower_bound": 649.12,
+          "upper_bound": 736.79
+        },
+        {
+          "step": 11,
+          "date": "2026-11-17",
+          "predicted_close": 695.05,
+          "lower_bound": 648.94,
+          "upper_bound": 741.16
+        },
+        {
+          "step": 12,
+          "date": "2026-11-18",
+          "predicted_close": 696.28,
+          "lower_bound": 648.03,
+          "upper_bound": 744.53
+        },
+        {
+          "step": 13,
+          "date": "2026-11-19",
+          "predicted_close": 696.08,
+          "lower_bound": 645.88,
+          "upper_bound": 746.29
+        },
+        {
+          "step": 14,
+          "date": "2026-11-20",
+          "predicted_close": 696.9,
+          "lower_bound": 644.74,
+          "upper_bound": 749.06
+        },
+        {
+          "step": 15,
+          "date": "2026-11-23",
+          "predicted_close": 696.1,
+          "lower_bound": 642.17,
+          "upper_bound": 750.03
+        },
+        {
+          "step": 16,
+          "date": "2026-11-24",
+          "predicted_close": 696.75,
+          "lower_bound": 641.0,
+          "upper_bound": 752.5
+        },
+        {
+          "step": 17,
+          "date": "2026-11-25",
+          "predicted_close": 695.81,
+          "lower_bound": 638.42,
+          "upper_bound": 753.2
+        },
+        {
+          "step": 18,
+          "date": "2026-11-26",
+          "predicted_close": 696.01,
+          "lower_bound": 636.94,
+          "upper_bound": 755.08
+        },
+        {
+          "step": 19,
+          "date": "2026-11-27",
+          "predicted_close": 694.77,
+          "lower_bound": 634.19,
+          "upper_bound": 755.35
+        },
+        {
+          "step": 20,
+          "date": "2026-11-30",
+          "predicted_close": 694.95,
+          "lower_bound": 632.78,
+          "upper_bound": 757.12
+        },
+        {
+          "step": 21,
+          "date": "2026-12-01",
+          "predicted_close": 694.62,
+          "lower_bound": 630.95,
+          "upper_bound": 758.3
+        },
+        {
+          "step": 22,
+          "date": "2026-12-02",
+          "predicted_close": 695.1,
+          "lower_bound": 629.88,
+          "upper_bound": 760.32
+        },
+        {
+          "step": 23,
+          "date": "2026-12-03",
+          "predicted_close": 694.99,
+          "lower_bound": 628.32,
+          "upper_bound": 761.67
+        },
+        {
+          "step": 24,
+          "date": "2026-12-04",
+          "predicted_close": 697.9,
+          "lower_bound": 629.51,
+          "upper_bound": 766.3
+        },
+        {
+          "step": 25,
+          "date": "2026-12-07",
+          "predicted_close": 698.93,
+          "lower_bound": 629.02,
+          "upper_bound": 768.83
+        },
+        {
+          "step": 26,
+          "date": "2026-12-08",
+          "predicted_close": 700.89,
+          "lower_bound": 629.4,
+          "upper_bound": 772.38
+        },
+        {
+          "step": 27,
+          "date": "2026-12-09",
+          "predicted_close": 702.4,
+          "lower_bound": 629.39,
+          "upper_bound": 775.41
+        },
+        {
+          "step": 28,
+          "date": "2026-12-10",
+          "predicted_close": 704.05,
+          "lower_bound": 629.52,
+          "upper_bound": 778.57
+        },
+        {
+          "step": 29,
+          "date": "2026-12-11",
+          "predicted_close": 703.85,
+          "lower_bound": 628.03,
+          "upper_bound": 779.67
+        },
+        {
+          "step": 30,
+          "date": "2026-12-14",
+          "predicted_close": 705.4,
+          "lower_bound": 628.11,
+          "upper_bound": 782.68
+        }
+      ],
+      "created_at": "2026-11-02T08:34:12.945157"
+    },
+    {
+      "id": "be1ce1aa-876a-464f-9387-ac8a4a5a3918",
+      "user_id": "cb0913a7-bec5-4f02-bce1-a02901a34ef0",
+      "symbol": "HDFCBANK.NS",
+      "model": "CNN",
+      "horizon": 30,
+      "latest_price": 689.85,
+      "predicted_prices": [
+        {
+          "step": 1,
+          "date": "2026-11-03",
+          "predicted_close": 695.27,
+          "lower_bound": 681.36,
+          "upper_bound": 709.18
+        },
+        {
+          "step": 2,
+          "date": "2026-11-04",
+          "predicted_close": 692.73,
+          "lower_bound": 673.13,
+          "upper_bound": 712.33
+        },
+        {
+          "step": 3,
+          "date": "2026-11-05",
+          "predicted_close": 691.8,
+          "lower_bound": 667.83,
+          "upper_bound": 715.77
+        },
+        {
+          "step": 4,
+          "date": "2026-11-06",
+          "predicted_close": 692.38,
+          "lower_bound": 664.68,
+          "upper_bound": 720.08
+        },
+        {
+          "step": 5,
+          "date": "2026-11-09",
+          "predicted_close": 692.32,
+          "lower_bound": 661.35,
+          "upper_bound": 723.28
+        },
+        {
+          "step": 6,
+          "date": "2026-11-10",
+          "predicted_close": 691.47,
+          "lower_bound": 657.58,
+          "upper_bound": 725.35
+        },
+        {
+          "step": 7,
+          "date": "2026-11-11",
+          "predicted_close": 692.07,
+          "lower_bound": 655.44,
+          "upper_bound": 728.69
+        },
+        {
+          "step": 8,
+          "date": "2026-11-12",
+          "predicted_close": 693.55,
+          "lower_bound": 654.31,
+          "upper_bound": 732.79
+        },
+        {
+          "step": 9,
+          "date": "2026-11-13",
+          "predicted_close": 693.5,
+          "lower_bound": 651.88,
+          "upper_bound": 735.12
+        },
+        {
+          "step": 10,
+          "date": "2026-11-16",
+          "predicted_close": 692.95,
+          "lower_bound": 649.12,
+          "upper_bound": 736.79
+        },
+        {
+          "step": 11,
+          "date": "2026-11-17",
+          "predicted_close": 695.05,
+          "lower_bound": 648.94,
+          "upper_bound": 741.16
+        },
+        {
+          "step": 12,
+          "date": "2026-11-18",
+          "predicted_close": 696.28,
+          "lower_bound": 648.03,
+          "upper_bound": 744.53
+        },
+        {
+          "step": 13,
+          "date": "2026-11-19",
+          "predicted_close": 696.08,
+          "lower_bound": 645.88,
+          "upper_bound": 746.29
+        },
+        {
+          "step": 14,
+          "date": "2026-11-20",
+          "predicted_close": 696.9,
+          "lower_bound": 644.74,
+          "upper_bound": 749.06
+        },
+        {
+          "step": 15,
+          "date": "2026-11-23",
+          "predicted_close": 696.1,
+          "lower_bound": 642.17,
+          "upper_bound": 750.03
+        },
+        {
+          "step": 16,
+          "date": "2026-11-24",
+          "predicted_close": 696.75,
+          "lower_bound": 641.0,
+          "upper_bound": 752.5
+        },
+        {
+          "step": 17,
+          "date": "2026-11-25",
+          "predicted_close": 695.81,
+          "lower_bound": 638.42,
+          "upper_bound": 753.2
+        },
+        {
+          "step": 18,
+          "date": "2026-11-26",
+          "predicted_close": 696.01,
+          "lower_bound": 636.94,
+          "upper_bound": 755.08
+        },
+        {
+          "step": 19,
+          "date": "2026-11-27",
+          "predicted_close": 694.77,
+          "lower_bound": 634.19,
+          "upper_bound": 755.35
+        },
+        {
+          "step": 20,
+          "date": "2026-11-30",
+          "predicted_close": 694.95,
+          "lower_bound": 632.78,
+          "upper_bound": 757.12
+        },
+        {
+          "step": 21,
+          "date": "2026-12-01",
+          "predicted_close": 694.62,
+          "lower_bound": 630.95,
+          "upper_bound": 758.3
+        },
+        {
+          "step": 22,
+          "date": "2026-12-02",
+          "predicted_close": 695.1,
+          "lower_bound": 629.88,
+          "upper_bound": 760.32
+        },
+        {
+          "step": 23,
+          "date": "2026-12-03",
+          "predicted_close": 694.99,
+          "lower_bound": 628.32,
+          "upper_bound": 761.67
+        },
+        {
+          "step": 24,
+          "date": "2026-12-04",
+          "predicted_close": 697.9,
+          "lower_bound": 629.51,
+          "upper_bound": 766.3
+        },
+        {
+          "step": 25,
+          "date": "2026-12-07",
+          "predicted_close": 698.93,
+          "lower_bound": 629.02,
+          "upper_bound": 768.83
+        },
+        {
+          "step": 26,
+          "date": "2026-12-08",
+          "predicted_close": 700.89,
+          "lower_bound": 629.4,
+          "upper_bound": 772.38
+        },
+        {
+          "step": 27,
+          "date": "2026-12-09",
+          "predicted_close": 702.4,
+          "lower_bound": 629.39,
+          "upper_bound": 775.41
+        },
+        {
+          "step": 28,
+          "date": "2026-12-10",
+          "predicted_close": 704.05,
+          "lower_bound": 629.52,
+          "upper_bound": 778.57
+        },
+        {
+          "step": 29,
+          "date": "2026-12-11",
+          "predicted_close": 703.85,
+          "lower_bound": 628.03,
+          "upper_bound": 779.67
+        },
+        {
+          "step": 30,
+          "date": "2026-12-14",
+          "predicted_close": 705.4,
+          "lower_bound": 628.11,
+          "upper_bound": 782.68
+        }
+      ],
+      "created_at": "2026-11-02T08:34:11.295132"
+    },
+    {
+      "id": "31614efe-571c-4fb3-b046-d7bb860ab256",
+      "user_id": "cb0913a7-bec5-4f02-bce1-a02901a34ef0",
+      "symbol": "HDFCBANK.NS",
+      "model": "LSTM",
+      "horizon": 30,
+      "latest_price": 690.1,
+      "predicted_prices": [
+        {
+          "step": 1,
+          "date": "2026-11-03",
+          "predicted_close": 696.31,
+          "lower_bound": 682.38,
+          "upper_bound": 710.24
+        },
+        {
+          "step": 2,
+          "date": "2026-11-04",
+          "predicted_close": 695.4,
+          "lower_bound": 675.73,
+          "upper_bound": 715.07
+        },
+        {
+          "step": 3,
+          "date": "2026-11-05",
+          "predicted_close": 695.25,
+          "lower_bound": 671.17,
+          "upper_bound": 719.34
+        },
+        {
+          "step": 4,
+          "date": "2026-11-06",
+          "predicted_close": 695.56,
+          "lower_bound": 667.73,
+          "upper_bound": 723.38
+        },
+        {
+          "step": 5,
+          "date": "2026-11-09",
+          "predicted_close": 696.12,
+          "lower_bound": 664.99,
+          "upper_bound": 727.26
+        },
+        {
+          "step": 6,
+          "date": "2026-11-10",
+          "predicted_close": 696.85,
+          "lower_bound": 662.71,
+          "upper_bound": 730.99
+        },
+        {
+          "step": 7,
+          "date": "2026-11-11",
+          "predicted_close": 697.66,
+          "lower_bound": 660.74,
+          "upper_bound": 734.57
+        },
+        {
+          "step": 8,
+          "date": "2026-11-12",
+          "predicted_close": 698.51,
+          "lower_bound": 658.99,
+          "upper_bound": 738.02
+        },
+        {
+          "step": 9,
+          "date": "2026-11-13",
+          "predicted_close": 699.38,
+          "lower_bound": 657.41,
+          "upper_bound": 741.35
+        },
+        {
+          "step": 10,
+          "date": "2026-11-16",
+          "predicted_close": 700.26,
+          "lower_bound": 655.96,
+          "upper_bound": 744.55
+        },
+        {
+          "step": 11,
+          "date": "2026-11-17",
+          "predicted_close": 701.12,
+          "lower_bound": 654.61,
+          "upper_bound": 747.64
+        },
+        {
+          "step": 12,
+          "date": "2026-11-18",
+          "predicted_close": 701.98,
+          "lower_bound": 653.34,
+          "upper_bound": 750.62
+        },
+        {
+          "step": 13,
+          "date": "2026-11-19",
+          "predicted_close": 702.82,
+          "lower_bound": 652.14,
+          "upper_bound": 753.51
+        },
+        {
+          "step": 14,
+          "date": "2026-11-20",
+          "predicted_close": 703.68,
+          "lower_bound": 651.02,
+          "upper_bound": 756.34
+        },
+        {
+          "step": 15,
+          "date": "2026-11-23",
+          "predicted_close": 704.52,
+          "lower_bound": 649.95,
+          "upper_bound": 759.1
+        },
+        {
+          "step": 16,
+          "date": "2026-11-24",
+          "predicted_close": 705.35,
+          "lower_bound": 648.91,
+          "upper_bound": 761.78
+        },
+        {
+          "step": 17,
+          "date": "2026-11-25",
+          "predicted_close": 706.15,
+          "lower_bound": 647.91,
+          "upper_bound": 764.38
+        },
+        {
+          "step": 18,
+          "date": "2026-11-26",
+          "predicted_close": 706.92,
+          "lower_bound": 646.93,
+          "upper_bound": 766.91
+        },
+        {
+          "step": 19,
+          "date": "2026-11-27",
+          "predicted_close": 707.68,
+          "lower_bound": 645.98,
+          "upper_bound": 769.38
+        },
+        {
+          "step": 20,
+          "date": "2026-11-30",
+          "predicted_close": 708.41,
+          "lower_bound": 645.05,
+          "upper_bound": 771.78
+        },
+        {
+          "step": 21,
+          "date": "2026-12-01",
+          "predicted_close": 709.12,
+          "lower_bound": 644.13,
+          "upper_bound": 774.12
+        },
+        {
+          "step": 22,
+          "date": "2026-12-02",
+          "predicted_close": 709.81,
+          "lower_bound": 643.22,
+          "upper_bound": 776.4
+        },
+        {
+          "step": 23,
+          "date": "2026-12-03",
+          "predicted_close": 710.48,
+          "lower_bound": 642.33,
+          "upper_bound": 778.63
+        },
+        {
+          "step": 24,
+          "date": "2026-12-04",
+          "predicted_close": 711.12,
+          "lower_bound": 641.44,
+          "upper_bound": 780.8
+        },
+        {
+          "step": 25,
+          "date": "2026-12-07",
+          "predicted_close": 711.74,
+          "lower_bound": 640.56,
+          "upper_bound": 782.92
+        },
+        {
+          "step": 26,
+          "date": "2026-12-08",
+          "predicted_close": 712.34,
+          "lower_bound": 639.69,
+          "upper_bound": 784.99
+        },
+        {
+          "step": 27,
+          "date": "2026-12-09",
+          "predicted_close": 712.91,
+          "lower_bound": 638.82,
+          "upper_bound": 787.01
+        },
+        {
+          "step": 28,
+          "date": "2026-12-10",
+          "predicted_close": 713.47,
+          "lower_bound": 637.95,
+          "upper_bound": 788.98
+        },
+        {
+          "step": 29,
+          "date": "2026-12-11",
+          "predicted_close": 714.0,
+          "lower_bound": 637.09,
+          "upper_bound": 790.9
+        },
+        {
+          "step": 30,
+          "date": "2026-12-14",
+          "predicted_close": 714.51,
+          "lower_bound": 636.23,
+          "upper_bound": 792.79
+        }
+      ],
+      "created_at": "2026-11-02T08:34:09.828983"
+    },
+    {
+      "id": "f73d18a9-3b66-48f9-b42c-148d07d3820d",
+      "user_id": "cb0913a7-bec5-4f02-bce1-a02901a34ef0",
+      "symbol": "HDFCBANK.NS",
+      "model": "LSTM",
+      "horizon": 5,
+      "latest_price": 690.1,
+      "predicted_prices": [
+        {
+          "step": 1,
+          "date": "2026-11-03",
+          "predicted_close": 696.31,
+          "lower_bound": 682.38,
+          "upper_bound": 710.24
+        },
+        {
+          "step": 2,
+          "date": "2026-11-04",
+          "predicted_close": 695.4,
+          "lower_bound": 675.73,
+          "upper_bound": 715.07
+        },
+        {
+          "step": 3,
+          "date": "2026-11-05",
+          "predicted_close": 695.25,
+          "lower_bound": 671.17,
+          "upper_bound": 719.34
+        },
+        {
+          "step": 4,
+          "date": "2026-11-06",
+          "predicted_close": 695.56,
+          "lower_bound": 667.73,
+          "upper_bound": 723.38
+        },
+        {
+          "step": 5,
+          "date": "2026-11-09",
+          "predicted_close": 696.12,
+          "lower_bound": 664.99,
+          "upper_bound": 727.26
+        }
+      ],
+      "created_at": "2026-11-02T08:34:07.325237"
+    },
+    {
+      "id": "2b3bed32-b483-46a9-9e0e-5da1015a2a13",
+      "user_id": "cb0913a7-bec5-4f02-bce1-a02901a34ef0",
+      "symbol": "RELIANCE.NS",
+      "model": "LSTM",
+      "horizon": 5,
+      "latest_price": 1254.8,
+      "predicted_prices": [
+        {
+          "step": 1,
+          "date": "2026-11-03",
+          "predicted_close": 1209.5,
+          "lower_bound": 1177.73,
+          "upper_bound": 1241.26
+        },
+        {
+          "step": 2,
+          "date": "2026-11-04",
+          "predicted_close": 1213.9,
+          "lower_bound": 1168.81,
+          "upper_bound": 1258.99
+        },
+        {
+          "step": 3,
+          "date": "2026-11-05",
+          "predicted_close": 1217.31,
+          "lower_bound": 1161.93,
+          "upper_bound": 1272.69
+        },
+        {
+          "step": 4,
+          "date": "2026-11-06",
+          "predicted_close": 1220.09,
+          "lower_bound": 1156.0,
+          "upper_bound": 1284.18
+        },
+        {
+          "step": 5,
+          "date": "2026-11-09",
+          "predicted_close": 1222.42,
+          "lower_bound": 1150.63,
+          "upper_bound": 1294.21
+        }
+      ],
+      "created_at": "2026-11-02T08:34:06.213922"
+    },
+    {
+      "id": "9d9429d6-be1a-4db3-9a22-3ad081bb1186",
+      "user_id": "cb0913a7-bec5-4f02-bce1-a02901a34ef0",
+      "symbol": "RELIANCE.NS",
+      "model": "LSTM",
+      "horizon": 5,
+      "latest_price": 1254.8,
+      "predicted_prices": [
+        {
+          "step": 1,
+          "date": "2026-11-03",
+          "predicted_close": 1209.5,
+          "lower_bound": 1177.73,
+          "upper_bound": 1241.26
+        },
+        {
+          "step": 2,
+          "date": "2026-11-04",
+          "predicted_close": 1213.9,
+          "lower_bound": 1168.81,
+          "upper_bound": 1258.99
+        },
+        {
+          "step": 3,
+          "date": "2026-11-05",
+          "predicted_close": 1217.31,
+          "lower_bound": 1161.93,
+          "upper_bound": 1272.69
+        },
+        {
+          "step": 4,
+          "date": "2026-11-06",
+          "predicted_close": 1220.09,
+          "lower_bound": 1156.0,
+          "upper_bound": 1284.18
+        },
+        {
+          "step": 5,
+          "date": "2026-11-09",
+          "predicted_close": 1222.42,
+          "lower_bound": 1150.63,
+          "upper_bound": 1294.21
+        }
+      ],
+      "created_at": "2026-11-02T08:34:05.430520"
+    }
+  ]
+}

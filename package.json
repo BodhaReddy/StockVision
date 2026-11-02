@@ -1,0 +1,16 @@
+{
+  "name": "stock-prediction-root",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Root runner for StockVision full-stack application",
+  "scripts": {
+    "dev": "npm run dev --prefix stockvision/frontend",
+    "dev:frontend": "npm run dev --prefix stockvision/frontend",
+    "dev:backend": "cd stockvision/backend && source venv/bin/activate && uvicorn app.main:app --reload --host 127.0.0.1 --port 8000",
+    "build": "npm run build --prefix stockvision/frontend",
+    "test:backend": "cd stockvision/backend && PYTHONPATH=. ./venv/bin/pytest tests/",
+    "test:frontend": "cd stockvision/frontend && npm run build",
+    "test": "npm run test:backend && npm run test:frontend"
+  }
+}
+

@@ -1,0 +1,116 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Schibsted Grotesk", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-serif: "Newsreader", Georgia, Cambria, serif;
+
+  --color-page: var(--color-page);
+  --color-surface: var(--color-surface);
+  --color-surface-subtle: var(--color-surface-subtle);
+  --color-border: var(--color-border);
+  --color-divider: var(--color-divider);
+  
+  --color-ink: var(--color-ink);
+  --color-ink-muted: var(--color-ink-muted);
+  --color-ink-subtle: var(--color-ink-subtle);
+
+  --color-rise: var(--color-rise);
+  --color-rise-subtle: var(--color-rise-subtle);
+  --color-fall: var(--color-fall);
+  --color-fall-subtle: var(--color-fall-subtle);
+  
+  --color-forecast: var(--color-forecast);
+  --color-forecast-subtle: var(--color-forecast-subtle);
+
+  --radius-notebook: 6px;
+}
+
+:root {
+  --color-page: #F1F4F6;
+  --color-surface: #FFFFFF;
+  --color-surface-subtle: #F8FAFB;
+  --color-border: #D5DCE2;
+  --color-divider: #D5DCE2;
+  
+  --color-ink: #14202B;
+  --color-ink-muted: #5B6B79;
+  --color-ink-subtle: #8493A2;
+
+  --color-rise: #0E8A5F;
+  --color-rise-subtle: rgba(14, 138, 95, 0.08);
+  --color-fall: #C8372D;
+  --color-fall-subtle: rgba(200, 55, 45, 0.08);
+  
+  --color-forecast: #2F5BEA;
+  --color-forecast-subtle: rgba(47, 91, 234, 0.08);
+}
+
+.dark {
+  --color-page: #0C1218;
+  --color-surface: #131B22;
+  --color-surface-subtle: #17222C;
+  --color-border: #202B36;
+  --color-divider: #202B36;
+
+  --color-ink: #ECF1F4;
+  --color-ink-muted: #8E9EA9;
+  --color-ink-subtle: #61717E;
+
+  --color-rise: #22B07D;
+  --color-rise-subtle: rgba(34, 176, 125, 0.12);
+  --color-fall: #E04D43;
+  --color-fall-subtle: rgba(224, 77, 67, 0.12);
+
+  --color-forecast: #4E76FA;
+  --color-forecast-subtle: rgba(78, 118, 250, 0.12);
+}
+
+body {
+  background-color: var(--color-page);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  font-variant-numeric: tabular-nums;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  min-height: 100vh;
+}
+
+input, select, button, table, td, th {
+  font-variant-numeric: tabular-nums;
+}
+
+:focus:not(:focus-visible) {
+  outline: none;
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-forecast);
+  outline-offset: 2px;
+  border-radius: 8px;
+}
+
+/* Restrained scrollbar */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-border);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-ink-subtle);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, ::before, ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

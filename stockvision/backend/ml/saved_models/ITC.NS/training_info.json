@@ -1,0 +1,20 @@
+{
+  "lstm": {
+    "training_time_seconds": 3.56,
+    "final_train_loss": 0.007961991243064404,
+    "final_val_loss": 0.14174684882164001,
+    "epochs_run": 9
+  },
+  "gru": {
+    "training_time_seconds": 7.22,
+    "final_train_loss": 0.0046162232756614685,
+    "final_val_loss": 0.007336609531193972,
+    "epochs_run": 25
+  },
+  "cnn": {
+    "training_time_seconds": 1.42,
+    "final_train_loss": 0.008075419813394547,
+    "final_val_loss": 0.22470806539058685,
+    "epochs_run": 19
+  }
+}
